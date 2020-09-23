@@ -1,0 +1,13 @@
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Ling. e Tecnica de Programação II\ProjetoCinema\ProjetoCinema\bin\Debug\ProjetoCinema.exe.config
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Ling. e Tecnica de Programação II\ProjetoCinema\ProjetoCinema\bin\Debug\ProjetoCinema.exe
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Ling. e Tecnica de Programação II\ProjetoCinema\ProjetoCinema\bin\Debug\ProjetoCinema.pdb
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Ling. e Tecnica de Programação II\ProjetoCinema\ProjetoCinema\obj\Debug\ProjetoCinema.csprojAssemblyReference.cache
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Ling. e Tecnica de Programação II\ProjetoCinema\ProjetoCinema\obj\Debug\ProjetoCinema.FrmCadastro.resources
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Ling. e Tecnica de Programação II\ProjetoCinema\ProjetoCinema\obj\Debug\ProjetoCinema.FrmLogin.resources
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Ling. e Tecnica de Programação II\ProjetoCinema\ProjetoCinema\obj\Debug\ProjetoCinema.FrmMain.resources
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Ling. e Tecnica de Programação II\ProjetoCinema\ProjetoCinema\obj\Debug\ProjetoCinema.FrmVenda.resources
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Ling. e Tecnica de Programação II\ProjetoCinema\ProjetoCinema\obj\Debug\ProjetoCinema.Properties.Resources.resources
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Ling. e Tecnica de Programação II\ProjetoCinema\ProjetoCinema\obj\Debug\ProjetoCinema.csproj.GenerateResource.cache
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Ling. e Tecnica de Programação II\ProjetoCinema\ProjetoCinema\obj\Debug\ProjetoCinema.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Ling. e Tecnica de Programação II\ProjetoCinema\ProjetoCinema\obj\Debug\ProjetoCinema.exe
+C:\Users\Usuário\Desktop\B.C.C\4° periodo\Ling. e Tecnica de Programação II\ProjetoCinema\ProjetoCinema\obj\Debug\ProjetoCinema.pdb
